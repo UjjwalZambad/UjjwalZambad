@@ -1,4 +1,4 @@
-![MasterHead](https://vrittechnologies.com/wp-content/uploads/elementor/thumbs/mern-1-1-q5x2yhvatai9vtyw8a3ej696750cy5yu4um084metk.png)
+
 <h1 align="center">Hi 👋, I'm Ujjwal Zambad</h1>
 <h3 align="center">I am currently a Third year IT engineering student 🧑‍🎓 and a full Stack Web Developer🕸️(MERN).</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
